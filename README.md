@@ -1,2 +1,1 @@
-# This is my GitHub page 
-By Krisada Chatrachotchawla
+https://github.com/Krisada-C/Krisada-C.github.io.git
